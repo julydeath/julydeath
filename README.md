@@ -2,7 +2,7 @@
 - 👀 I’m interested in computers
 - 🌱 I’m currently learning full stack
 - 💞️ I’m looking to collaborate on any full stack devlopment role
-- 📫 kmanoj.in
+- 📫 [kmanoj.in]
 
 <!---
 julydeath/julydeath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
